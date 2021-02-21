@@ -1,0 +1,4 @@
+{
+    "nodeApiEndpoint": "http://localhost:3000/api/",
+    "exchangeRateApiEndpoint": "https://api.exchangeratesapi.io/latest"
+}
